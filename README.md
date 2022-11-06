@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TenzinKhetsun
 - 👀 I’m interested in becoming a S.E
-- 🌱 I’m currently learning python in school
+- 🌱 I’m currently learning c# in AP CS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gamil tkhetsun929@gmail.com
 
